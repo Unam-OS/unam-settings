@@ -27,7 +27,7 @@ sudo mv unam-settings-3 /usr/bin/unam-settings
 sudo chmod +x /usr/bin/unam-settings
 ```
 
-# Unam Settings running
+### unam-settings in action
 
 ![us](https://github.com/Unam-OS/unam-settings/blob/master/Screenshot%2027-04-2017-14_19_23.png?raw=true)
 
