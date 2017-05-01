@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd "$HOME/B00merang/unam OS/Apps/unam settings"
+
+./unam-settings.py
