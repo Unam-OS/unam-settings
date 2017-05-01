@@ -1,6 +1,8 @@
 # unam-settings
 Settings app for Unam Session
 
+**Info:** we're having issues launching the software in a new thread. Working on it...
+
 # How to use
 1. Make folder /usr/share/unam OS/Apps/unam settings
 
